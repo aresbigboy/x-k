@@ -1,6 +1,6 @@
 FROM alpine:edge
 
-ARG AUUID="24b4b1e1-7a89-45f6-858c-242cf53b5bdb"
+ARG AUUID="13f497df-b533-4fe9-8a91-3cc5be6c0c81"
 ARG CADDYIndexPage="https://apple.com"
 ARG ParameterSSENCYPT="chacha20-ietf-poly1305"
 ARG PORT=80
